@@ -4,7 +4,7 @@
 
 
 
-- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/refs/heads/master/Emojis/Objects/Books.png" alt="Rocket" width="23" height="23" /> I’m currently learning **Machine Learning.**
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/refs/heads/master/Emojis/Objects/Books.png" alt="Rocket" width="23" height="23" /> I’m currently learning **React and Machine Learning.**
 - <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Thought%20Balloon.png" alt="Thought Balloon" width="23" height="23" /> Ask me about **Frontend , C , C++ and Python.** <br>
 
 - <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/refs/heads/master/Emojis/Objects/E-Mail.png" alt="Rocket" width="23" height="23" /> Contact Me: **devmjohnktr@gmail.com**
