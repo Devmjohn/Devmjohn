@@ -5,7 +5,7 @@
 
 
 - <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/refs/heads/master/Emojis/Objects/Books.png" alt="Rocket" width="23" height="23" /> I’m currently learning **React and Machine Learning.**
-- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Thought%20Balloon.png" alt="Thought Balloon" width="23" height="23" /> Ask me about **Frontend , C , C++ and Python.** <br>
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Thought%20Balloon.png" alt="Thought Balloon" width="23" height="23" /> Ask me about **Cyber Security,Frontend , C , C++ and Python.** <br>
 
 - <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/refs/heads/master/Emojis/Objects/E-Mail.png" alt="Rocket" width="23" height="23" /> Contact Me: **devmjohnktr@gmail.com**
 
@@ -25,7 +25,7 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Devmjohn&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Star.png" alt="Rocket" width="30" height="30" /> GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Devmjohn&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+![](https://github-trophies.vercel.app/?username=devmjohn&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
 ### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="30" height="30" /> Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Devmjohn&limit=5&theme=dark&combine_all_yearly_contributions=true)
