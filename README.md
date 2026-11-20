@@ -1,6 +1,6 @@
 ![MasterHead](https://user-images.githubusercontent.com/67194519/173735367-b75edb3b-61ec-4323-a10f-5d98e1d7b97a.gif)
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Russo+One&color=&size=100&pause=1000&center=true&vCenter=true&width=2000&height=200&lines=Hi+%F0%9F%91%8B%2C+I'm+Dev+M+John;I'm+a+Student+Developer;Cyber+Security+Enthusiast;Machine+Learning+UG)](mailto:devmjohnktr@gmail.com)<h1></h1>
-<h3 align="center">A Passionate Student Developer from India<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/refs/heads/master/Emojis/People%20with%20professions/Man%20Technologist%20Light%20Skin%20Tone.png" alt="Rocket" width="30" height="30" /></h3> 
+<h3 align="center">A Passionate Developer from India<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/refs/heads/master/Emojis/People%20with%20professions/Man%20Technologist%20Light%20Skin%20Tone.png" alt="Rocket" width="30" height="30" /></h3> 
 
 
 
